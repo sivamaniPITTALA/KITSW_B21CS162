@@ -4,3 +4,6 @@ q2_frontend-app/
 node_modules/
 .DS_Store
 q2_frontend-app/node_modules/
+node_modules/
+.DS_Store
+q2_frontend-app/node_modules/
